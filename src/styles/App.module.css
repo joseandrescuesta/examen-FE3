@@ -1,0 +1,19 @@
+.formulario {
+    width: 50%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: cornflowerblue;
+    color: white;
+    padding: 10px;
+}
+
+.app {
+    display: flex;
+    flex-direction: row;
+}
+
+.button {
+    margin: 20px;
+}
